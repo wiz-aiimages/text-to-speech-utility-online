@@ -11,7 +11,6 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #e6e6e6;
 }
 ::selection{
   color: #fff;
